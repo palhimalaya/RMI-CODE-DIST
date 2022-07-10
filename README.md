@@ -22,6 +22,6 @@ To run this code follow these steps:
    -javac Client.java
    -javac Product.java
 
-- Now run java Client
+- Now run -start rmiregistry and then -java Client
 ```
 
