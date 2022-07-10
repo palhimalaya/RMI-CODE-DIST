@@ -7,7 +7,7 @@
 To run this code follow these steps:
 ```sh
 - Check if jdk is installed or not by typing these command in terminal:
-   -java --version
+   -java --version or -version
    -javac --version
 - Now clone this REPO
 - Go to folder and cd to server first
@@ -15,7 +15,7 @@ To run this code follow these steps:
    -javac Server.java
    -javac Product.java
    -javac ProductImp.java
-- Now run java Server
+- Now run -java Server
 - Open new terminal dont close previous one
 - cd client
 - Run .java file first by following command in terminal:
